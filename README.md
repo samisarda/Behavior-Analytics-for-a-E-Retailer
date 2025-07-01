@@ -1,10 +1,11 @@
 # Behavior-Analytics-for-a-E-Retailer
 
-Customer Intelligence and Sales Optimization for a Global Wholesale Retailer
+**Customer Intelligence and Sales Optimization for a Global Wholesale Retailer**
 
 This project demonstrates how transactional data can be transformed into actionable insights to drive strategic decisions for a global wholesale giftware retailer. The goal is to enhance marketing effectiveness, optimize inventory, and boost sales performance through customer behavior analysis, product affinity insights, and demand forecasting.
-**
-Key Objectives**
+
+
+**Key Objectives**
 
 1. Analyze customer behavior and lifecycle trends across regions
 
