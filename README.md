@@ -1,4 +1,4 @@
-# Behavior-Analytics-for-a-E-Retailer
+# Behavior-Analytics-for-an-E-Retailer
 
 **Customer Intelligence and Sales Optimization for a Global Wholesale Retailer**
 
