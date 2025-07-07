@@ -5,7 +5,7 @@
 This project demonstrates how transactional data can be transformed into actionable insights to drive strategic decisions for a global wholesale giftware retailer. The goal is to enhance marketing effectiveness, optimize inventory, and boost sales performance through customer behavior analysis, product affinity insights, and demand forecasting.
 
 
-##Key Objectives
+## Key Objectives
 
 1. Analyze customer behavior and lifecycle trends across regions
 
@@ -17,7 +17,7 @@ This project demonstrates how transactional data can be transformed into actiona
 
 5. Forecast demand trends with Holt-Winters for better planning and logistics
 
-**Techniques Used**
+## Techniques Used
 
 1. RFM Analysis for customer segmentation
 
