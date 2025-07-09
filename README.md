@@ -31,3 +31,7 @@ This project demonstrates how transactional data can be transformed into actiona
 
 
 The solution turns raw transactional data into a scalable, data-driven competitive advantage.
+
+## Data Source
+
+Data: https://archive.ics.uci.edu/dataset/502/online+retail+ii
